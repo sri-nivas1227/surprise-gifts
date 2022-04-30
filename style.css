@@ -1,6 +1,11 @@
 .main{
     min-height: 100vh;
+    background-color: red;
 }
 .get-gifts{
     display: none;
+}
+img{
+    width: 500px;
+    height: auto;
 }
